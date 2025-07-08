@@ -33,7 +33,8 @@ VS Code • Git • GitHub • Google Colab
 
 - Coding cool tools  
 - Applying logic to solve problems in code  
-- Exploring Artificial Intelligence and Machine Learning
+- Exploring Artificial Intelligence and Machine Learning  
+- **Solving math problems through logic-first thinking and digital system concepts like logic gates and elimination strategies**
 
 ---
 
